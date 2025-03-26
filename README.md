@@ -13,14 +13,14 @@ Ein einfaches Survival-Spiel erstellt mit Pygame, bei dem Spieler Ressourcen sam
 - Pausenmenü
 
 ## Voraussetzungen
-- Python 3.x
+- Python 3.11.9
 - Pygame
 - Pillow (PIL)
 
 ## Installation
 1. Repository klonen:
 ```bash
-git clone https://github.com/dein-username/mein-spiel.git
+git clone https://github.com/sage071920/python-game.git
 Dependencies installieren:
 bash
 pip install -r requirements.txt
@@ -52,8 +52,3 @@ Hinweise
 Stelle sicher, dass alle PNG-Dateien im pngs/-Verzeichnis vorhanden sind
 Das Spiel speichert Screenshots temporär im pngs/-Verzeichnis
 
-### Anpassungen:
-- Ersetze `https://github.com/dein-username/mein-spiel.git` durch die tatsächliche URL deines GitHub-Repositories, nachdem du es erstellt hast.
-- Du kannst den Titel "Mein Pygame Survival Spiel" nach Belieben anpassen, falls du einen spezifischen Namen für dein Spiel hast.
-
-Speichere diesen Text einfach als `README.md` in deinem Projektverzeichnis, und er wird automatisch auf GitHub als Hauptbeschreibung deines Repositories angezeigt. Wenn du noch etwas hinzufügen oder ändern möchtest, lass es mich wissen!
