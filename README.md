@@ -11,11 +11,11 @@ Ein einfaches Survival-Spiel erstellt mit Pygame, bei dem Spieler Ressourcen sam
 - Pausenmenü
 
 ## Voraussetzungen
-- Python 3.x
+- Python 3.11.9
 - Pygame
 - Pillow (PIL)
 
 ## Installation
 1. Repository klonen:
 ```bash
-git clone https://github.com/dein-username/mein-spiel.git
+git clone https://github.com/sage071920/python-game.git
