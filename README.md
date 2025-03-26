@@ -1,5 +1,3 @@
-Hier ist der Code für die README.md-Datei, den du direkt kopieren und verwenden kannst:
-markdown
 # Mein Pygame Survival Spiel
 
 Ein einfaches Survival-Spiel erstellt mit Pygame, bei dem Spieler Ressourcen sammeln, craften und eine Welt erkunden können.
@@ -19,23 +17,31 @@ Ein einfaches Survival-Spiel erstellt mit Pygame, bei dem Spieler Ressourcen sam
 
 ## Installation
 1. Repository klonen:
-```bash
-git clone https://github.com/sage071920/python-game.git
-Dependencies installieren:
-bash
+   ```bash
+   git clone https://github.com/sage071920/python-game.git
+
+	2.	Abhängigkeiten installieren:
+
 pip install -r requirements.txt
-Spiel starten:
-bash
+
+
+	3.	Spiel starten:
+
 python src/main.py
+
+
+
 Steuerung
-WASD / Pfeiltasten: Bewegung
-Shift: Sprinten (verbraucht Energie)
-E: Mit Items interagieren
-Q: Item droppen
-1-5: Inventar-Slots auswählen
-I: Crafting-Menü öffnen
-ESC: Pausenmenü
+	•	WASD / Pfeiltasten: Bewegung
+	•	Shift: Sprinten (verbraucht Energie)
+	•	E: Mit Items interagieren
+	•	Q: Item droppen
+	•	1-5: Inventar-Slots auswählen
+	•	I: Crafting-Menü öffnen
+	•	ESC: Pausenmenü
+
 Projektstruktur
+
 mein-spiel/
 ├── src/                # Quellcode
 │   ├── main.py        # Hauptspiel-Logik
@@ -44,11 +50,12 @@ mein-spiel/
 │   └── dungeon.py     # Dungeon-Logik
 ├── pngs/              # Bildressourcen
 └── README.md          # Dokumentation
-Bekannte Abhängigkeiten
-pygame: Für die Spiel-Engine
-PIL: Für Bildverarbeitung
-random: Für Zufallsgenerierung
-Hinweise
-Stelle sicher, dass alle PNG-Dateien im pngs/-Verzeichnis vorhanden sind
-Das Spiel speichert Screenshots temporär im pngs/-Verzeichnis
 
+Bekannte Abhängigkeiten
+	•	pygame: Für die Spiel-Engine
+	•	PIL: Für Bildverarbeitung
+	•	random: Für Zufallsgenerierung
+
+Hinweise
+	•	Stelle sicher, dass alle PNG-Dateien im pngs/-Verzeichnis vorhanden sind.
+	•	Das Spiel speichert Screenshots temporär im pngs/-Verzeichnis.
