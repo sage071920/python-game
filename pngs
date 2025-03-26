@@ -1,0 +1,19 @@
+<script>start("/Users/samuel/python/gametest/pngs/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1742660713,"22.03.25, 17:25:13");</script>
+<script>addRow("background_dungeon.png","background_dungeon.png",0,17313,"16.9 kB",1742901943,"25.03.25, 12:25:43");</script>
+<script>addRow("background.png","background.png",0,17098,"16.7 kB",1742644627,"22.03.25, 12:57:07");</script>
+<script>addRow("blurred_screenshot.png","blurred_screenshot.png",0,96358,"94.1 kB",1743010510,"26.03.25, 18:35:10");</script>
+<script>addRow("craftingtabel_highlighted.png","craftingtabel_highlighted.png",0,4933,"4.8 kB",1742821478,"24.03.25, 14:04:38");</script>
+<script>addRow("craftingtabel.png","craftingtabel.png",0,4633,"4.5 kB",1742821076,"24.03.25, 13:57:56");</script>
+<script>addRow("screenshot.png","screenshot.png",0,28230,"27.6 kB",1743010510,"26.03.25, 18:35:10");</script>
+<script>addRow("stick_highlighted.png","stick_highlighted.png",0,4635,"4.5 kB",1742838986,"24.03.25, 18:56:26");</script>
+<script>addRow("stick.png","stick.png",0,4316,"4.2 kB",1742838902,"24.03.25, 18:55:02");</script>
+<script>addRow("stone_highlighted.png","stone_highlighted.png",0,4872,"4.8 kB",1742661163,"22.03.25, 17:32:43");</script>
+<script>addRow("stone_pickaxe_highlighted.png","stone_pickaxe_highlighted.png",0,4505,"4.4 kB",1742838368,"24.03.25, 18:46:08");</script>
+<script>addRow("stone_pickaxe.png","stone_pickaxe.png",0,4462,"4.4 kB",1742838200,"24.03.25, 18:43:20");</script>
+<script>addRow("stone.png","stone.png",0,4550,"4.4 kB",1742601840,"22.03.25, 01:04:00");</script>
+<script>addRow("wood_highlighted.png","wood_highlighted.png",0,5090,"5.0 kB",1742661406,"22.03.25, 17:36:46");</script>
+<script>addRow("wood_plank_highlighted.png","wood_plank_highlighted.png",0,4754,"4.6 kB",1742808670,"24.03.25, 10:31:10");</script>
+<script>addRow("wood_plank.png","wood_plank.png",0,4544,"4.4 kB",1742808375,"24.03.25, 10:26:15");</script>
+<script>addRow("wood.png","wood.png",0,4797,"4.7 kB",1742602118,"22.03.25, 01:08:38");</script>
